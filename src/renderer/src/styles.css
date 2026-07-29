@@ -1,0 +1,9 @@
+body { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; margin: 0 }
+.app-header { padding: 12px; background: #222; color: #fff }
+.toolbar { display: flex; gap: 8px; padding: 8px; background: #eee }
+.toolbar button { padding: 6px 10px }
+.toolbar button.active { background: #007bff; color: #fff }
+.import-label input { display: none }
+.canvas-wrap { padding: 12px }
+.canvas { border: 1px solid #ddd; background: #fff }
+.canvas-help { margin-top: 6px; color: #666 }
